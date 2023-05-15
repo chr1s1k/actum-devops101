@@ -6,7 +6,7 @@ pr: none
 resources:
   pipelines:
   - pipeline: buildPipelineResource
-    source: build pipeline
+    source: build pipeline Radek
     branch: main
     trigger:
       branches:
